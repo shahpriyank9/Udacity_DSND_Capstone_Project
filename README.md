@@ -1,6 +1,6 @@
 # Predicting User Churn for Sparkiy (Music App) !!!
 
-Overview of the analysis can be found [here]() 
+Overview of the analysis can be found [here](https://medium.com/@priyankshah_63434/predicting-churn-for-sparkify-music-app-2c17af4d7c2f) 
 
 ## Libraries used
 
