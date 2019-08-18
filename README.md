@@ -7,9 +7,9 @@ Overview of the analysis can be found [here]()
 Following are the moduels which have been used in the notebook  and are necessary for running the notebook.
 1. Python 3.6.3
 2. Spark Version 2.4.3
-3. Pandas 
-4. Matplotlib
-5. Seaborn
+3. Pandas 0.23.3
+4. Matplotlib 2.1.0
+5. Seaborn 0.8.1
 
 ## Motivation for the Project 
 
