@@ -26,7 +26,7 @@ Following files are included in this repository:
 
 1. Blog_pics/ : It stores all the pictures of the plots shown in the blog.
 2. README.md :  A brief Information on the project.
-3. Sparkify-DSND.ipnyb : An IPython Jupyter notebook which houses all the analysis done in the project with code.
+3. Sparkify.ipnyb : An IPython Jupyter notebook which houses all the analysis done in the project with code.
 
 ## Results of the analysis :
 
