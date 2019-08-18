@@ -28,12 +28,13 @@ Following files are included in this repository:
 1. Blog_pics/ : It stores all the pictures of the plots shown in the blog.
 2. README.md :  A brief Information on the project.
 3. Sparkify.ipnyb : An IPython Jupyter notebook which houses all the analysis done in the project with code.
+4. final_features.zip : An intermediate data file which can be directly read in the notebook and run the models with it.
 
 ## Results of the analysis :
 
 1. The most important factor in predicting a user churn is actually the total amount of time a user has been with the app. The lesser this time the more possibility for the user to churn. Which is clearly seen in many organizations that they focus heavily on the users which are new so that they are satisfied with the service and do not churn.
 2. There are other factors in case of Sparkify which affect the Churn  which are more amount of Thumbs Down given , Less Friends added and songs added to playlist, more advertisments being shown to users  are some of the important ones.
-3. Random Forest Classifer is best able to predict the churn with Logistic Regressiona and Decision Trees not far behind.
+3. Random Forest Classifer is best able to predict the churn.
 
 
 ## Acknowledgements 
